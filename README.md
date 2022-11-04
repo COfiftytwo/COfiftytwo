@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/1584023795.gif" width="790px" height="400px" />
+<img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/nonnon.gif" width="790px" height="400px" />
 
 <br>
 <br>
