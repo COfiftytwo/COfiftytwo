@@ -6,7 +6,7 @@
 <br>
 -->
 
-### <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/20150509113815005--unscreen.gif" width="70px" height="70" />[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Bubbles&pause=1000&color=9C6AF7&width=435&lines=Meowning!%E3%80%80Nice+to+meet+you.+;My+name's+Japanese)](https://git.io/typing-svg) <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/85711824_480x415.gif" width="70px" height="70" />
+### <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/20150509113815005--unscreen.gif" width="70px" height="70" />[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Bubbles&pause=1000&color=9C6AF7&width=435&lines=Meowning!%E3%80%80Nice+to+meet+you.+;My+name's+JPNese)](https://git.io/typing-svg) <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/85711824_480x415.gif" width="70px" height="70" />
 <!--Font[Rubik Bubbles]-->
 
 <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/nonnon.gif" width="790px" height="400px" />
