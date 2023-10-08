@@ -27,7 +27,7 @@
 ### <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/giphy4.gif" width="22px" height="22px">    Other
 <!--<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="29" height="29"/> </a>--> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="29" height="29"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="29" height="29"/> </a> </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/COfiftytwo/COfiftytwo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/COfiftytwo/COfiftytwo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/COfiftytwo/COfiftytwo/master/img/snake.svg) 
 
 <!--
 # <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/giphy4.gif" width="40px" height="40px">    Programing Langeages
