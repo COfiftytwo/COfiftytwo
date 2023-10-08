@@ -1,29 +1,33 @@
-name: GenerateSnake
-on:
+name: Generate-Fancy-Snake-Header
+
+on: 
+  push:
+    branches:
+      - main
+  schedule: # execute every 24 hours
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-  schedule:
-    - cron: "10 13 * * *"
 
 jobs:
-  update-repository:
-    name: Update this repo's README with repository_owner
+  generate:
+    name: Animate snake
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Generate Snake
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./img/snake.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@main
+          
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          branch: main
-          message: ':rocket: Update'
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
