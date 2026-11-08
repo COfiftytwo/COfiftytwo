@@ -9,7 +9,7 @@
 ### <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/20150509113815005--unscreen.gif" width="70px" height="70" />[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Bubbles&pause=1000&color=9C6AF7&width=435&lines=Meowning!%E3%80%80Nice+to+meet+you.+;My+name's+Yoshinori)](https://git.io/typing-svg) <img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/85711824_480x415.gif" width="70px" height="70" />
 <!--Font[Rubik Bubbles]-->
 
-<img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/nonnon.gif" width="790px" height="400px" />
+<!--<img src="https://github.com/COfiftytwo/COfiftytwo/blob/main/Gif/nonnon.gif" width="790px" height="400px" /> -->
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=00F747&width=435&lines=Kidding+aside%2C+My+name's+Japanese+;I+don't+Even+know+myseylf....)](https://git.io/typing-svg)
